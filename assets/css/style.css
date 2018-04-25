@@ -7,3 +7,13 @@
 .navbar{
     padding: 0%;
 }
+.card-body{
+    top: 40%;
+    width: 286px;
+}
+body {
+    font-family: 'Poiret One', cursive;
+}
+#nametag{
+    font-family: 'Monoton', cursive;
+}
