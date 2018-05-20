@@ -8,7 +8,7 @@
     padding: 0%;
 }
 .card-body{
-    top: 40%;
+    top: 60%;
     width: 286px;
 }
 body {
@@ -16,4 +16,15 @@ body {
 }
 #nametag{
     font-family: 'Monoton', cursive;
+}
+.portfolio-img{
+    width: 286px;
+    height: 200px;
+    align-content: center
+}
+.specialized-img{
+    width: 286px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
 }
